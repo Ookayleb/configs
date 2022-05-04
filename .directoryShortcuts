@@ -1,0 +1,5 @@
+export \
+	gdrive="C:/Users/caleb/Google*Drive" 	\
+	doc="C:/Users/caleb/Documents"		\
+	git="C:/Users/caleb/Documents/Git"	\
+	makejspin="javaw -jar ~/Documents/Git/jspin/jspin.jar"
